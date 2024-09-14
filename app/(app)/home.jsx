@@ -9,8 +9,8 @@ export default function home() {
     <View>
       <Pressable onPress={logout}>
       <Text>Logout</Text>
-     
       </Pressable>
+      <Text>home</Text>
     </View>
   )
 }
